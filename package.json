@@ -1,0 +1,25 @@
+{
+  "name": "pure-o-madoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "watch": "pulp --watch build & parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwhiles/pure-o-madoro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jwhiles/pure-o-madoro/issues"
+  },
+  "homepage": "https://github.com/Jwhiles/pure-o-madoro#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.7.1"
+  }
+}
